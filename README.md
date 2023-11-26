@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="500em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+<img height="500em" src="./profile-3d-contrib/profile-season-animate.svg"/>
