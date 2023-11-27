@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 ## 📈 My Stat - Fizioo0102
 <div style="display: flex">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizioo0102)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizioo0102&layout=compact)](https://github.com/Fizioo0102/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chldudw)](https://solved.ac/chldudw)
 </div>
